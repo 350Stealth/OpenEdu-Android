@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="button_yes">Да</string>
+    <string name="button_No">Нет</string>
+    <string name="text_Moscow">Москва - столица России!</string>
+    <string name="correct">Правильный ответ</string>
+    <string name="incorrect">Неправильный ответ</string>
+</resources>
