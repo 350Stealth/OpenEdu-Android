@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="second_activity">Food Choose</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="ChooseTheFood">Выберете еду</string>
+    <string name="With_you">С собой?</string>
+    <string name="buttonNo">No</string>
+    <string name="Vopper">Воппер</string>
+    <string name="FrenchPotato">Картошка фри</string>
+    <string name="Drinks">Пепси/Фанта/Спрайт</string>
+    <string name="Sause">Соус</string>
+    <string name="Sweets">Десерт</string>
+</resources>
