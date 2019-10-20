@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Linear Layout</string>
+    <string name="app_name">Cat</string>
     <string name="second_activity">Food Choose</string>
     <string name="_1">1</string>
     <string name="_2">2</string>
@@ -12,4 +12,12 @@
     <string name="Drinks">Пепси/Фанта/Спрайт</string>
     <string name="Sause">Соус</string>
     <string name="Sweets">Десерт</string>
+    <string name="button_cat">KNOW MORE</string>
+    <string name="esperanto_desc">Эсперанто</string>
+    <string name="esperanto_text">Эспера́нто (Esperanto) — наиболее распространённый плановый язык, созданный варшавским окулистом Лазарем (Людвиком) Марковичем Заменгофом в 1887 году, после десяти лет работы.
+        Первая опубликованная книга по эсперанто называлась «Lingvo internacia. Antaŭparolo kaj plena lernolibro» («Международный язык. Предисловие и полный учебник»). Псевдоним Заменгофа — Эсперанто (буквально «Надеющийся») — очень скоро стал названием самого языка. Важнейшими отличительными чертами языка эсперанто, как и многих других плановых языков, являются:
+        лёгкость изучения, особенно на начальном этапе, вследствие простой грамматики и отсутствия исключений;
+        нейтральность (внеэтничность), то есть эсперанто не связан с каким-либо государством или нацией.
+    </string>
+    <string name="kitty">Котик</string>
 </resources>
